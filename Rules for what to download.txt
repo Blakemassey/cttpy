@@ -1,0 +1,4 @@
+Deployed All = Any unit that has ever been deployed
+Deployed Recent = Any unit currently deployed
+Reserve All = All units
+Reserve Recent = Any unit currently on-hand
